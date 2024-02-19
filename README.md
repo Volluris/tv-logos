@@ -85,14 +85,6 @@ Click on a country to go to its directory. From there you can click the mosaic f
 
 The logos are adjusted to work on a dark background. Some of them are not suitable for light backgrounds. Since the Git interface is white you might think the logo is not loading but it is, just right-click on the logo and select copy image address and use that URL for the logo.
 
-## I will regularly add new channel logos, you can also message me and request logos
-
-If you want to support me continuing the work, you can donate by clicking the donate button: Donaters can jump in line and request missing logos for me to do as soon as I can.
-
-[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
-
-* Donators get a channel logo request. I also take requests for custom logos or logos for a light background.
-
 * The goal of this project is to give people better access to logos in good quality and to meet the design requirements of the designers/owners of the logos and supply the increasing demand for better quality experience.
 
 * All the logos come in PNG format and work perfectly on dark backgrounds.
