@@ -1,18 +1,8 @@
-# I'm trying this for the 3rd time
-
-I now have an enterprice account. I hope Github will allow me to stay up this time. Please consider donating since enterprice accounts are not free.
-
 # Free high quality TV Logos for dark backgrounds
 
 Contact: tapio.sinnertwin(at)gmail.com - I will try my best to reply within 24hr.
 
 Here you will find free tv logos from around the world in good high-res quality and suitable for dark backgrounds.
-
-## 💛 Support me to continue this project
-
-If you want to support me continuing the work, you can donate by clicking the donate button. Creating the logos and maintaining them and the github takes quite the time and I would like to put in more work on this project so any donation helps!
-
-[<img src="https://raw.githubusercontent.com/tv-logo/tv-logos/main/misc/paypal-donate.png" width="150">](https://www.paypal.com/donate/?hosted_button_id=JTJ7FPU6TCHDW)
 
 ## 📝 Logo request
 
